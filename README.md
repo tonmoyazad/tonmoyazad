@@ -1,9 +1,10 @@
 ### Hi there 👋
 Welcome
 
-Im a data enthusiast with experience in Looker studio, data pipeline development, and data science-related projects. My work in Looker studio has been featured in a video demonstration, and I have created a data pipeline for Adsense.
+🧠 Self taught data driven programmer and data science enthutist enthusiast* who keep learning and exploring. Loves to solve problems.
 
-🌱 I’m currently learning: Odoo, Server-side Tracking, A-B testing
+🌱 I’m currently learning: Odoo, DBT, Server-side Tracking, A-B testing
+📷 Loves creating contents that tells a story. 
 
 In my GitHub profile, you'll find a variety of data science projects, including a comparison of ML models between linear regression and neural networks, sentimental analysis, and an automation project. I am also currently learning about Odoo and server-side tracking.
 
@@ -15,13 +16,20 @@ In my GitHub profile, you'll find a variety of data science projects, including 
 
 - [Adsense Data Pipeline with GCP](https://github.com/tonmoyazad/adsense_data_pipeline) - Pull Adsense Data using with the help of Google Cloud, Adsense Management API and storing it Google Sheets. 
 
-- [Looker Studio Dashboards](https://youtu.be/NNQTKegTVgc, )
+- [Looker Studio Dashboards]( https://lookerstudio.google.com/s/lkNrpEXF0ew)- Merchant Shop Report
+- [Other Looker Studio works](https://youtu.be/NNQTKegTVgc)- Video Compilation of BI dashboards
 
 
 
 Outside of my work in data, I enjoy cycling and exploring new trails. Please feel free to check out my LinkedIn profile to learn more about my background and experience.
 
 Thanks for stopping by!
+
+### More about my works!
+- LinkedIn: https://www.linkedin.com/in/subrinalazad/
+- Upwork: https://www.upwork.com/freelancers/~016c8c5d1905d9092b
+- Instagram: https://www.instagram.com/tonmoy.azad/
+- 
 <!--
 **tonmoyazad/tonmoyazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
