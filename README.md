@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome
 
-🧠 Self taught data driven programmer and data science enthutist enthusiast* who keep learning and exploring. Loves to solve problems.
+🧠 Self taught data driven programmer and data science enthutist enthusiast* who keep learning and exploring. Loves to solve problems, teaching excel users to write Python code.
 
 🌱 I’m currently learning: Odoo, DBT, Server-side Tracking, A-B testing
 📷 Loves creating contents that tells a story. 
@@ -25,11 +25,11 @@ Outside of my work in data, I enjoy cycling and exploring new trails. Please fee
 
 Thanks for stopping by!
 
-### More about my works!
+### Reach me!📫 
 - LinkedIn: https://www.linkedin.com/in/subrinalazad/
 - Upwork: https://www.upwork.com/freelancers/~016c8c5d1905d9092b
 - Instagram: https://www.instagram.com/tonmoy.azad/
-- 
+
 <!--
 **tonmoyazad/tonmoyazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
