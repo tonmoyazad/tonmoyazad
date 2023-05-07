@@ -9,6 +9,8 @@ Welcome
 In my GitHub profile, you'll find a variety of data science projects, including a comparison of ML models between linear regression and neural networks, sentimental analysis, and an automation project. I am also currently learning about Odoo and server-side tracking.
 
 ### Projects I'm happy to share ✨ 
+- [Langchain & OpenAI](https://github.com/tonmoyazad/Openai_langchain)- Langchain framework using Openai API to answer imported story,codes and able to answer back according to questions ask. ChromaDB has been used in this. 
+
 - [ML Model Performance Comparison](https://github.com/tonmoyazad/Data-Science/blob/main/car.ipynb)- Compare the performance between Linear Regression & Neaural Network models with car prices!
 
 - [Sentimental Analysis]( https://github.com/tonmoyazad/Data-Science/blob/main/reviews.ipynb) - Compare the performance between Linear Regression & Neaural Network models with car prices!
